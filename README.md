@@ -98,5 +98,5 @@ pip install requests beautifulsoup4
 ## 作者
 
 ```markdown
-- **作者**：Hank-Chrome
+- **作者**：Hank-Chrome(Gemini-2.0-flash-exp + Deepseek V3)
 ```
